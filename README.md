@@ -37,7 +37,8 @@ Here are some ideas to get you started:
 
 <hr style="width:50%;text-align:left;margin-left:0">
 
-### 👦Stats ![profile visit](https://komarev.com/ghpvc/?username=KanishkSharma7)
+### 👦Stats 
+![profile visit](https://komarev.com/ghpvc/?username=KanishkSharma7)
 <div align="centre">
  
 ![Leetcode Stats](https://leetcard.jacoblin.cool/c0deFreak7)
@@ -52,7 +53,9 @@ Here are some ideas to get you started:
 <br>
 <a href="[https://www.linkedin.com/in/kanishksharma7/]"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:sharma.kanishk678@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="[https://www.instagram.com/kanishk_sharma7/]"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-
+<a href="https://kanishksharma7.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>&nbsp;
+ 
 </p>
 <hr style="width:50%;text-align:left;margin-left:0">
+
+Hope to see you there!
